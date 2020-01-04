@@ -1,2 +1,2 @@
-# Tiaia
-Personal Records 
+# 这是我的个人博客
+日常学习记录
